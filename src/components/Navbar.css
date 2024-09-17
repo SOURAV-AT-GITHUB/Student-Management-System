@@ -1,0 +1,15 @@
+.nav-a-text {
+  background: #f99736;
+  border-radius: 50% 50% 50% 0px;
+}
+.nav-link {
+  color: white !important;
+  text-decoration: none;
+  font-size: 1.25rem !important;
+}
+.nav-link.active {
+  border-bottom: 5px solid #f99736;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  color: #f99736 !important; /* Change text color */
+}
