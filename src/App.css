@@ -1,0 +1,24 @@
+main{
+  margin-top: 6rem;
+}
+#filter-section{
+  text-align: center;
+}
+#filter-section input{
+padding-left: 1rem;
+  border-color: #f99736;
+  padding: .35rem;
+  font-weight: 600;
+}
+.icons{
+  height: 20px;
+}
+.custom-select{
+  border-color: #f99736;
+  border-width: 2.5px;
+  padding: .25rem;
+  font-weight: 600;
+  color: gray;
+  padding-left:1rem;
+  padding-right:1rem;
+}

@@ -1,6 +1,8 @@
 .nav-a-text {
   background: #f99736;
   border-radius: 50% 50% 50% 0px;
+  color: black;
+  font-weight:500;
 }
 .nav-link {
   color: white !important;
